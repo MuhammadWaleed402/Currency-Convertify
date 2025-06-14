@@ -1,0 +1,137 @@
+[
+  {
+    "amount": 10.0,
+    "from_currency": "USD",
+    "to_currency": "GBP",
+    "exchange_rate": 0.737,
+    "converted_amount": 7.37,
+    "timestamp": "2025-06-14T17:03:26.189548",
+    "readable_time": "2025-06-14 17:03:26"
+  },
+  {
+    "amount": 10.0,
+    "from_currency": "JPY",
+    "to_currency": "USD",
+    "exchange_rate": 0.006945409084595083,
+    "converted_amount": 0.06945409084595083,
+    "timestamp": "2025-06-14T17:05:54.347079",
+    "readable_time": "2025-06-14 17:05:54"
+  },
+  {
+    "amount": 15.0,
+    "from_currency": "USD",
+    "to_currency": "OMR",
+    "exchange_rate": 0.384,
+    "converted_amount": 5.76,
+    "timestamp": "2025-06-14T17:06:31.416133",
+    "readable_time": "2025-06-14 17:06:31"
+  },
+  {
+    "amount": 10.0,
+    "from_currency": "USD",
+    "to_currency": "INR",
+    "exchange_rate": 86.02,
+    "converted_amount": 860.1999999999999,
+    "timestamp": "2025-06-14T17:16:41.706533",
+    "readable_time": "2025-06-14 17:16:41"
+  },
+  {
+    "amount": 15.0,
+    "from_currency": "CNY",
+    "to_currency": "USD",
+    "exchange_rate": 0.13908205841446453,
+    "converted_amount": 2.086230876216968,
+    "timestamp": "2025-06-14T17:18:02.154517",
+    "readable_time": "2025-06-14 17:18:02"
+  },
+  {
+    "amount": 15.0,
+    "from_currency": "JPY",
+    "to_currency": "CNY",
+    "exchange_rate": 0.04993749131823865,
+    "converted_amount": 0.7490623697735798,
+    "timestamp": "2025-06-14T17:18:35.776162",
+    "readable_time": "2025-06-14 17:18:35"
+  },
+  {
+    "amount": 20.0,
+    "from_currency": "OMR",
+    "to_currency": "INR",
+    "exchange_rate": 224.01041666666666,
+    "converted_amount": 4480.208333333333,
+    "timestamp": "2025-06-14T17:20:09.417965",
+    "readable_time": "2025-06-14 17:20:09"
+  },
+  {
+    "amount": 20.0,
+    "from_currency": "INR",
+    "to_currency": "USD",
+    "exchange_rate": 0.011625203441060218,
+    "converted_amount": 0.23250406882120436,
+    "timestamp": "2025-06-14T17:21:25.326360",
+    "readable_time": "2025-06-14 17:21:25"
+  },
+  {
+    "amount": 20.0,
+    "from_currency": "EUR",
+    "to_currency": "OMR",
+    "exchange_rate": 0.44341801385681295,
+    "converted_amount": 8.86836027713626,
+    "timestamp": "2025-06-14T17:21:47.173469",
+    "readable_time": "2025-06-14 17:21:47"
+  },
+  {
+    "amount": 25.0,
+    "from_currency": "EUR",
+    "to_currency": "USD",
+    "exchange_rate": 1.1547344110854503,
+    "converted_amount": 28.868360277136258,
+    "timestamp": "2025-06-14T17:23:35.361996",
+    "readable_time": "2025-06-14 17:23:35"
+  },
+  {
+    "amount": 10.0,
+    "from_currency": "USD",
+    "to_currency": "EUR",
+    "exchange_rate": 0.866,
+    "converted_amount": 8.66,
+    "timestamp": "2025-06-14T17:25:23.282846",
+    "readable_time": "2025-06-14 17:25:23"
+  },
+  {
+    "amount": 15.0,
+    "from_currency": "OMR",
+    "to_currency": "USD",
+    "exchange_rate": 2.6041666666666665,
+    "converted_amount": 39.0625,
+    "timestamp": "2025-06-14T17:26:32.452133",
+    "readable_time": "2025-06-14 17:26:32"
+  },
+  {
+    "amount": 10.0,
+    "from_currency": "USD",
+    "to_currency": "EUR",
+    "exchange_rate": 0.866,
+    "converted_amount": 8.66,
+    "timestamp": "2025-06-14T17:28:32.846425",
+    "readable_time": "2025-06-14 17:28:32"
+  },
+  {
+    "amount": 10.0,
+    "from_currency": "USD",
+    "to_currency": "EUR",
+    "exchange_rate": 0.866,
+    "converted_amount": 8.66,
+    "timestamp": "2025-06-14T20:35:55.424883",
+    "readable_time": "2025-06-14 20:35:55"
+  },
+  {
+    "amount": 20.0,
+    "from_currency": "USD",
+    "to_currency": "OMR",
+    "exchange_rate": 0.384,
+    "converted_amount": 7.68,
+    "timestamp": "2025-06-14T20:37:47.884059",
+    "readable_time": "2025-06-14 20:37:47"
+  }
+]
